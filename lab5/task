@@ -1,0 +1,6 @@
+Create a User Interface (UI) form to collect data from those who are interested in participating in the upcoming IITDU Football League.  
+You must collect participants' info, such as name, phone, email, address, gender, date of birth, Degree (select the latest degree IITDU offers), and picture; game-related info, such as preferred position, whether played in inter-departmental competition, football experiences, etc. 
+If the user keeps any info blank, you have to warn and do not store incomplete data. 
+You must store the data in a text file. 
+
+N.B. You can get a sample code on UI at https://github.com/saeedsiddik/OOP_2025.git
